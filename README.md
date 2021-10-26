@@ -249,6 +249,7 @@ Ranked is rank Position based on Score
 ### **Anime's Popularity, Favorites, Members**
 Favorites and Members Score, sorted with Popularity rank:
 <img src="plot/15.PNG" height=300px>
+
 Top 1 anime based on popularity is Death Note. 
 
 It's seems like popularity doesn't really correspond to its favorite because 'Steins;Gate' on rank 9 has larger favorites count than the rank 4-8. 
