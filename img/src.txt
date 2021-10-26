@@ -1,0 +1,6 @@
+[1] 1_kny.png kimetsu no yaiba https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba/pics
+[2] 2_mal.png myanimelist logo https://image.myanimelist.net/ui/OK6W_koKDTOqqqLDbIoPArR89MP-ulHxaLCJ2P-BfXg
+[3] 3_content-vs-collab.png collaborative vs content-based https://www.researchgate.net/profile/Lionel-Ngoupeyou-Tondji/publication/323726564/figure/fig5/AS:631605009846299@1527597777415/Content-based-filtering-vs-Collaborative-filtering-Source.png
+[4] 4_tfidf.png tf-idf https://ichi.pro/assets/images/max/724/1*qQgnyPLDIkUmeZKN2_ZWbQ.png
+[5] 5_cos.png cosine simmilarity https://cs.carleton.edu/cs_comps/0910/netflixprize/final_results/knn/img/knn/cos.png
+[6] 6_pivot.png pivot table https://www.aurigait.com/resources/files/2020/04/image-5.png
