@@ -207,7 +207,7 @@ most anime episodes ranged from 0-55, and as we can see, it’s not distributed 
     [Sentai Filmworks]   652
     [Media Blasters]     206
     [Discotek Media]     194
-    ...                                                  1
+    ...                                        
     Name: Licensors, Length: 231, dtype: int64
     ///////////////////////
 
@@ -242,13 +242,13 @@ PG-Children has a small number compared to other. This shown Anime was not compl
 ### **Anime 'Ranked' (position of anime rank in MAL)**
 Ranked is rank Position based on Score
 ### Q: Whats the Top 10 Ranked Anime and its Score?
-<img src="plot/14.png" height=300px>
+<img src="plot/14.PNG" height=300px>
 <br/>
 <br/>
 
 ### **Anime's Popularity, Favorites, Members**
 Favorites and Members Score, sorted with Popularity rank:
-<img src="plot/15.png" height=300px>
+<img src="plot/15.PNG" height=300px>
 Top 1 anime based on popularity is Death Note. 
 
 It's seems like popularity doesn't really correspond to its favorite because 'Steins;Gate' on rank 9 has larger favorites count than the rank 4-8. 
